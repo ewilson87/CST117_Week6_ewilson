@@ -1,0 +1,7 @@
+C:\Users\evanw\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.exe.config
+C:\Users\evanw\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.exe
+C:\Users\evanw\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.pdb
+C:\Users\evanw\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\Week6_Exercise10.csprojResolveAssemblyReference.cache
+C:\Users\evanw\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\Week6_Exercise10.csproj.CoreCompileInputs.cache
+C:\Users\evanw\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.exe
+C:\Users\evanw\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.pdb
